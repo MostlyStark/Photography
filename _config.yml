@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "MostlyStark.github.io/photography"
+baseurl: "https://mostlystark.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
